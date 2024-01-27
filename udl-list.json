@@ -1732,16 +1732,16 @@
 		},
 		{
 			"id-name": "SAS_StyleDark_byMatthiasBoege",
-			"display-name": "SAS (dark style) v1",
-			"version": "Sat, 16 Sep 2023 13:48:23 GMT",
+			"display-name": "SAS (dark style) v1.2",
+			"version": "Sat, 27 Jan 2024 16:42:13 GMT",
 			"repository": "",
 			"description": "SAS for dark NPP styles",
 			"author": "Matthias B&ouml;ge <mailto:matthias@boege-consulting.com>"
 		},
 		{
 			"id-name": "SAS_StyleLight_byMatthiasBoege",
-			"display-name": "SAS (light style) v1",
-			"version": "Sat, 16 Sep 2023 13:48:23 GMT",
+			"display-name": "SAS (light style) v1.2",
+			"version": "Sat, 27 Jan 2024 16:42:13 GMT",
 			"repository": "",
 			"description": "SAS for light NPP styles",
 			"author": "Matthias B&ouml;ge <mailto:matthias@boege-consulting.com>"
