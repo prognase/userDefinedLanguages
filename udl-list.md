@@ -257,8 +257,8 @@
 | [SAP NetWeaver IdM language](./UDLs/SAP-NetWeaver-IdM-v7p1_byFrankBuchholz.xml) | [Frank Buchholz](mailto:frank.buchholz@sap.com) | SAP NetWeaver IdM language |
 | [SAP Web Intelligence Formula Editor](./UDLs/SAP-WebIntelligenceFormula_byIvanRubil.xml) | [Ivan Rubil](mailto:rubil.ivan@gmail.com) | SAP Web Intelligence Formula Editor |
 | [SAS](./UDLs/SAS_byCathLawrence.xml) | [Cath Lawrence](mailto:cath.lawrence@aihw.gov.au) | SAS |
-| [SAS (dark style) v1](./UDLs/SAS_StyleDark_byMatthiasBoege.xml) | [Matthias B&ouml;ge](mailto:matthias@boege-consulting.com) | SAS for dark NPP styles |
-| [SAS (light style) v1](./UDLs/SAS_StyleLight_byMatthiasBoege.xml) | [Matthias B&ouml;ge](mailto:matthias@boege-consulting.com) | SAS for light NPP styles |
+| [SAS (dark style) v1.2](./UDLs/SAS_StyleDark_byMatthiasBoege.xml) | [Matthias B&ouml;ge](mailto:matthias@boege-consulting.com) | SAS for dark NPP styles |
+| [SAS (light style) v1.2](./UDLs/SAS_StyleLight_byMatthiasBoege.xml) | [Matthias B&ouml;ge](mailto:matthias@boege-consulting.com) | SAS for light NPP styles |
 | [SAS with pseudocode](./UDLs/SAS_withPseudocode_byJeffFoarde.xml) | [Jeff Foarde](mailto:foarde@gmail.com) | SAS with pseudocode |
 | [Scala](./UDLs/Scala_byMihailJP.xml) | [MihailJP](https://gist.github.com/MihailJP/4563140) | Scala  |
 | [Schlumberger Eclipse](./UDLs/SchlumbergerEclipse-slb_by-juanbretti.xml) | [Juan Pedro Bretti Mandarano](http://www.google.com/profiles/juanbretti) | Schlumberger Eclipse |
